@@ -8,6 +8,8 @@ I'm not a software engineer by trade, but I like building tools that make creati
 
 **[LUUZI](https://efieli.github.io/luuzi-site/)**: a free mouse utility for macOS with smooth scrolling, mouse gestures, button remapping, drag to scroll and autoscroll. [Website](https://efieli.github.io/luuzi-site/) · [Downloads](https://github.com/efieli/luuzi-releases)
 
+**[Blindbar](https://github.com/efieli/blindbar-releases)**: my MacBook Pro's Touch Bar stopped lighting up but still responds to touch, so I built an app that shows it on screen. I slide my finger along the bar, see where I am, and tap when I'm on the right button.
+
 **Premiere Pro extensions** (private, built for my own workflow):
 - An effect search bar that finds and applies any effect instantly
 - A caption generator with animated presets and "Stacks", multi-line kinetic captions for high-impact moments
