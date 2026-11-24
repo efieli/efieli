@@ -15,7 +15,7 @@ I'm not a software engineer by trade, but I like building tools that make creati
 ## 🎬 Video work
 
 - 14+ years editing long-form YouTube, short-form, podcasts, music videos and launch videos
-- Edited 300+ podcast clips and the first 90 episodes of the *Empresa Autogerenciável* business podcast (top 10 business podcast on Spotify Brazil in 2020)
+- Edited 300+ podcast clips and the first 90 episodes of the *Empresa Autogerenciável* business podcast (top 10 business podcast on Spotify in 2020)
 - Hands-on production too: camera (Blackmagic 6K Pro, Sony a6600), audio recording and mixing, live broadcasts
 
 **Selected videos**
@@ -26,9 +26,9 @@ I'm not a software engineer by trade, but I like building tools that make creati
 
 ## 🧰 Toolbox
 
-**Video & audio:** Premiere Pro · DaVinci Resolve · CapCut · Frame.io · After Effects (basic) · audio editing and mixing
-**Design:** Photoshop · Illustrator · Affinity
-**Building (AI-assisted):** Swift · JavaScript · HTML/CSS
+- **Video & audio:** Premiere Pro · DaVinci Resolve · CapCut · Frame.io · After Effects (basic) · audio editing and mixing
+- **Design:** Photoshop · Illustrator · Affinity
+- **Building (AI-assisted):** Swift · JavaScript · HTML/CSS
 
 ## 📫 Find me
 
